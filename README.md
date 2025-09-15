@@ -1,4 +1,4 @@
-# Wplace-Subnautica-unofficial-
+# Wplace-Subnautica-unofficial
 
 Start pixel :  https://wplace.live/?lat=45.81477316116315&lng=-2.854248378222683&zoom=17.50758189232818 
 
